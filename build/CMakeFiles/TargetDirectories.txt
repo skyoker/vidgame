@@ -1,0 +1,3 @@
+/home/skyoker/Documents/CODE/vidgame/build/CMakeFiles/VidGame.dir
+/home/skyoker/Documents/CODE/vidgame/build/CMakeFiles/edit_cache.dir
+/home/skyoker/Documents/CODE/vidgame/build/CMakeFiles/rebuild_cache.dir
